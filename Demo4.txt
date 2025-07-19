@@ -1,0 +1,9 @@
+hello this is Demo4 file 
+
+ix below
+PS C:\Users\icons\OneDrive\Desktop\Class git> cd cd "C:\Users\icons\OneDrive\Desktop\Class git\PraveenDemo"
+Set-Location : A positional parameter cannot be found that accepts argument
+'C:\Users\icons\OneDrive\Desktop\Class git\PraveenDemo'.
+At line:1 char:1
+
+cd cd "C:\Users\icons\OneDrive\Desktop\Class git\PraveenDemo" 
